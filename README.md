@@ -1,1 +1,1 @@
-# Chapter-10-Problem-Solving
+# Problem-Solving-Challenge
