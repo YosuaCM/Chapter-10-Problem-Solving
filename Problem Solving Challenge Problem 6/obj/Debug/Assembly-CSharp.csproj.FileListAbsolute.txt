@@ -1,0 +1,2 @@
+E:\Studi Independen\Programming\Chapter\Chapter 10\Problem Solving Challenge\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Studi Independen\Programming\Chapter\Chapter 10\Problem Solving Challenge\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
